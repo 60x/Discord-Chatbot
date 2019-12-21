@@ -1,1 +1,1 @@
-How to use:
+# Discord - Chatbot
