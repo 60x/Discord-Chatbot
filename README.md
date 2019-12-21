@@ -4,6 +4,6 @@ A simple, friendly and interactive discord bot that loves to chat and share meme
 
 # **Installation:**
 
-`*pip install discord.py*`
+*`pip install discord.py`*
 
 `*python chatbot.py*`
