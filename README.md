@@ -2,7 +2,7 @@
 
 A simple, friendly and interactive discord bot that loves to chat and share memes with you.
 
-**Installation.**
+# **Installation:**
 
 *pip install discord.py*
 
