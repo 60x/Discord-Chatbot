@@ -11,12 +11,12 @@ A simple, friendly and interactive discord bot that loves to chat and share meme
 python chatbot.py
 ```
 # **Python Installation:**
-```
+**```
 sudo apt-get upgrade
-
+``` **```
 sudo apt-get install python3
-
+``` **```
 sudo apt-get install python3-pip
-
+``` **```
 sudo apt-get update
 ```
