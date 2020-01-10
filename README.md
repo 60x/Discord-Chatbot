@@ -4,9 +4,9 @@ A simple, friendly and interactive discord bot that loves to chat and share meme
 
 # **Linux Installation:**
 ```
-git clone https://github.com/60x/Discord-Chatbot && cd Discord-Chatbot
+*git clone https://github.com/60x/Discord-Chatbot && cd Discord-Chatbot*
 
-pip install discord.py
+*pip install discord.py*
 
 python chatbot.py
 ```
