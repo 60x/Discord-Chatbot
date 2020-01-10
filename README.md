@@ -10,3 +10,12 @@ pip install discord.py
 
 python chatbot.py
 ```
+# **Python Installation:**
+```
+sudo apt-get upgrade
+
+sudo apt-get install python3
+
+sudo apt-get install python3-pip
+
+sudo apt-get update```
